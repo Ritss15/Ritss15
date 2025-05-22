@@ -10,7 +10,7 @@
 
 ## Contact Me
 - 📫 Email: your.riteshpatil14060@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🔗 LinkedIn: www.linkedin.com/in/ritesh-patil-5a78a031a
 - 🐱 GitHub: [https://github.com/Ritss15](https://github.com/Ritss15)
 
 ---
